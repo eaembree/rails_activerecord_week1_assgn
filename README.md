@@ -1,0 +1,1 @@
+# rails_activerecord_week1_assgn
